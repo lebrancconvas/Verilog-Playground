@@ -1,0 +1,1 @@
+iverilog -o $1 $1.v && vvp $1
